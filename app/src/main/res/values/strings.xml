@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Logica App</string>
+    <string name="True">T</string>
+    <string name="False">F</string>
+    <string name="confirm">Confirm</string>
+    <string name="input_not_correct">One of your answers is not a digit or it is empty!</string>
+</resources>
